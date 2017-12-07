@@ -26,7 +26,7 @@ Provide any source information on what originated the need for the fix.
 ### Steps to Reproduce
 
 ## Additional Information
-+ [Peek or screencast]()
++ [Screencast]()
 + Screenshots
 + Exported zip file, etc
 + Supporting material (spreadsheets, referenced issues, courses, etc)
