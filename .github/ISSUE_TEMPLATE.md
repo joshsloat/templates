@@ -15,7 +15,7 @@
 Provide any source information on what originated the need for the fix.
 + YouTrack ticket
 + Forum Threads
-+ [Screencasts]()
++ [Screencast]()
 
 ## Behavior
 
@@ -50,7 +50,7 @@ Prose description of feature
 Source information, if any.  For example:
 + YouTrack ticket
 + Forum Threads
-+ [Screencasts]()
++ [Screencast]()
 
 FEATURE? – REMOVE THIS LINE -->
 
