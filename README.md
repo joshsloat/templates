@@ -1,7 +1,7 @@
 # templates
 Testing out GitHub templates for issues and pull requests
 
-## Create Issues
+## Creating Issues
 
 * [New Bug](../../issues/new?template=BUG_TEMPLATE.md&labels=bug)
 * [New Feature](../../issues/new?template=FEATURE_TEMPLATE.md&labels=feature)
