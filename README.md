@@ -3,9 +3,9 @@ Testing out GitHub templates for issues and pull requests
 
 ## Create Issues
 
-* [New Bug](../../issues/new?template=BUG_TEMPLATE.md)
-* [New Feature](../../issues/new?template=FEATURE_TEMPLATE.md)
-* [New Chore](../../issues/new?template=CHORE_TEMPLATE.md)
+* [New Bug](../../issues/new?template=BUG_TEMPLATE.md&labels=bug)
+* [New Feature](../../issues/new?template=FEATURE_TEMPLATE.md&labels=feature)
+* [New Chore](../../issues/new?template=CHORE_TEMPLATE.md&labels=chore)
 
 ## Resources
 
