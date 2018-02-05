@@ -26,6 +26,8 @@ Provide any source information on what originated the need for the fix.
 + Exported zip file, etc
 + Supporting material (spreadsheets, referenced issues, courses, etc)
 
+<!--
+
 ## Validation Criteria
 
 ### Authoring
@@ -48,3 +50,5 @@ Provide any source information on what originated the need for the fix.
 ## Ship Approval
 - [ ] Code Review
 - [ ] QA
+
+-->
