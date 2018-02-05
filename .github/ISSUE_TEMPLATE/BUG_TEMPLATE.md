@@ -1,8 +1,3 @@
-<!-- Remove comment lines for desired issue type -->
-
-
-<!-- BUG REPORT? – REMOVE THIS LINE
-
 ## Description
 
 ### Impact
@@ -30,43 +25,6 @@ Provide any source information on what originated the need for the fix.
 + Screenshots
 + Exported zip file, etc
 + Supporting material (spreadsheets, referenced issues, courses, etc)
-
-BUG REPORT? – REMOVE THIS LINE -->
-
-
-
-<!-- FEATURE? – REMOVE THIS LINE
-
-## Description
-
-### Design
-
-Prose description of feature
-
-[Zeplin]()
-
-### Source Information
-
-Source information, if any.  For example:
-+ YouTrack ticket
-+ Forum Threads
-+ [Screencast]()
-
-FEATURE? – REMOVE THIS LINE -->
-
-
-
-<!-- CHORE? – REMOVE THIS LINE
-
-## Description
-
-Description of the refactor, tech debt pay down, feature piece, etc.
-
-CHORE? – REMOVE THIS LINE -->
-
-
-
-<!-- This section applies to all issue types -->
 
 ## Validation Criteria
 
